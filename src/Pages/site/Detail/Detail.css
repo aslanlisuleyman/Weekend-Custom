@@ -1,0 +1,22 @@
+.details{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color:navy;
+    height: 92.5vh;
+    background: linear-gradient(to right,#4b73f7, rgb(255, 255, 255));
+    font-weight: 900;
+    font-size: 19px;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.details img{
+    width: 400px;
+}
